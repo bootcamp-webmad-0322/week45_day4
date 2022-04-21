@@ -1,0 +1,17 @@
+#map {
+    height: 100vh;
+    background-color: red;
+}
+
+#routeDetails {
+    background-color: #fff;
+    position: fixed;
+    left: 10px;
+    bottom: 0;
+    width: 500px;
+    padding: 10px;
+    font-weight: 200;
+    overflow-y: scroll;
+    height: 250px;
+    box-shadow: 10px -10px 10px rgba(0, 0, 0, .5);
+}
